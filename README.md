@@ -1,0 +1,2 @@
+# FuryFreshfull
+Shopify Theme Files
